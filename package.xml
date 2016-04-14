@@ -9,5 +9,9 @@
         <members>CustomPermissionSet1</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>CustomProfileSA1</members>
+        <name>Profile</name>
+    </types>
     <version>35.0</version>
 </Package>
